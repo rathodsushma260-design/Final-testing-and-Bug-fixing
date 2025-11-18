@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "bug": "Home screen overflow issue",
+    "status": "Fixed"
+  },
+  {
+    "id": 2,
+    "bug": "Button not clickable on login page",
+    "status": "Fixed"
+  },
+  {
+    "id": 3,
+    "bug": "API slow response",
+    "status": "Improved"
+  },
+  {
+    "id": 4,
+    "bug": "Image not loading on profile page",
+    "status": "Fixed"
+  }
+]
